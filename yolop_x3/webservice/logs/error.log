@@ -1,0 +1,10 @@
+2024/07/15 15:37:03 [emerg] 41057#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2024/07/15 15:38:35 [emerg] 41668#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2024/07/15 15:38:42 [emerg] 41708#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/07/15 15:38:42 [emerg] 41708#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/07/15 15:38:42 [emerg] 41708#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/07/15 15:38:42 [emerg] 41708#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/07/15 15:38:42 [emerg] 41708#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2024/07/15 15:38:42 [emerg] 41708#0: still could not bind()
+2024/07/15 16:01:22 [error] 41112#0: *1 open() "./html/favicon.ico" failed (2: No such file or directory), client: 192.168.2.65, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.65", referrer: "http://192.168.2.65/"
+2024/07/23 10:10:52 [error] 4779#0: *7 open() "./html/favicon.ico" failed (2: No such file or directory), client: 192.168.2.64, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.2.65", referrer: "http://192.168.2.65/"
